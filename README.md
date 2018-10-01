@@ -7,7 +7,7 @@ code path hello project
 `TODO://` Prints "hello from ifte" and changes the color of text when a button is clicked
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`TODO://` http://recordit.co/Mx8GMwpKmc
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
