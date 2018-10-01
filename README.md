@@ -8,7 +8,8 @@ code path hello project
 
 ### App Walk-though
 `TODO://` 
-<img src="http://g.recordit.co/Mx8GMwpKmc.gif" width=200><br>
+<img src="" width=200><br>
+![](http://g.recordit.co/Mx8GMwpKmc.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
