@@ -7,7 +7,7 @@ code path hello project
 `TODO://` Prints "hello from ifte" and changes the color of text when a button is clicked
 
 ### App Walk-though
-`TODO://` http://recordit.co/Mx8GMwpKmc
+`TODO://` http://g.recordit.co/Mx8GMwpKmc.gif
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
